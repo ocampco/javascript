@@ -1,11 +1,9 @@
-# Mark Ocampo JavaScript Style Guide() {
-
-*A mostly reasonable approach to JavaScript*
+# :star: JavaScript Style Guide
 
 ## Table of Contents
   1. [Components](#components)
 
-## Types
+## Components
 
 ```js
 // Stateless
